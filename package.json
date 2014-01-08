@@ -6,9 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/andrewfhart/timelines.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-bower-organiser": "~0.7.5"
   },
   "keywords": [
     "timelines",
