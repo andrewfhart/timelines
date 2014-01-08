@@ -1,0 +1,25 @@
+{
+  "name": "timelines",
+  "version": "0.1.0",
+  "description": "Create and manage interactive, sortable, categorized timelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewfhart/timelines.git"
+  },
+  "keywords": [
+    "timelines",
+    "history",
+    "events",
+    "visualization"
+  ],
+  "author": "Andrew Hart",
+  "license": "Apache Software Licence v2.0",
+  "bugs": {
+    "url": "https://github.com/andrewfhart/timelines/issues"
+  },
+  "homepage": "https://github.com/andrewfhart/timelines"
+}
